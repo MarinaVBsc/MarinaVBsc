@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Marina
 
-<!--
-**MarinaVBsc/MarinaVBsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Bioinformatics | Machine Learning in Healthcare
 
-Here are some ideas to get you started:
+Passionate about applying machine learning models to uncover patterns in medical and scientific data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Python * Pandas * Monocle3 * R * Seurat * SQL * MongoDB * Selenium
+Learning: PyTorch
+
+## Projects 
+- Liver Rat Multiome - Integration of data scRNA-seq and ATAC-seq (Seurat, Monocle3). Preclinical rat data. 
+- Disease Prediction Model: I’m currently working on ML for clinical diagnosis with model explainability.
+- Public Tenders Web crawler: Hands on on automation and database management for large-scale data extraction (Python, MongoDB, Selenium)
+
+
