@@ -5,8 +5,10 @@ Data Scientist | Bioinformatics | Machine Learning in Healthcare
 Passionate about applying machine learning models to uncover patterns in medical and scientific data.
 
 ## Technologies
-Python * Pandas * Monocle3 * R * Seurat * SQL * MongoDB * Selenium
-Learning: PyTorch
+Python * Pandas * Monocle3 * Numpy * Matplotlib/Seaborn * R * Seurat * Jupyter Notebook * SQL * MongoDB * Selenium
+
+## Ongoing 
+Learning: PyTorch, Scikit-Learn, TensorFlow
 
 ## Projects 
 - Liver Rat Multiome: Integration of data scRNA-seq and ATAC-seq (Seurat, Monocle3). Preclinical rat data. 
